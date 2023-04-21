@@ -1,0 +1,19 @@
+p {
+	color: blue; 
+	font-family: Tahoma;
+	
+
+}
+
+#paragrafAwal
+{
+	background-image: url('../images//HAMLINE.gif') ;
+	background-repeat: no-repeat;
+	background-position: center ;
+	background-attachment: fixed;
+}
+#list_item 
+{
+	color: red;
+}
+
